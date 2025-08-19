@@ -26,7 +26,7 @@ Especially useful if you want to **save space on your Main drive**, since your m
 ## Why I made this project
 
 I created this project to:
-- **Simplify storing songs on GitHub** (easy to keep, share, and version them)
+- **Simplify storing songs on GitHub** (easy to keep, share, and version them) ***(You can also do this by forking this repository)***
 - **Save disk space** on the system drive by keeping music on other drives or repositories
 - Make setting up **Self Radio** fast and effortless with just a couple of scripts
 
